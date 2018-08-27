@@ -16,8 +16,8 @@ def cal_mean_square(vec_lis, core):
     '''
             计算一个中心的均方误差
     input:
-            数据列表vec_lis
-            中心点core
+                数据列表vec_lis
+                中心点core
     '''
     dist=0.0
     for i in vec_lis:
